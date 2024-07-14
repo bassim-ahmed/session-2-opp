@@ -6,7 +6,7 @@ namespace session
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void main(string[] args)
 
         {
             #region encapsulation
